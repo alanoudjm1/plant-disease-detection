@@ -18,6 +18,3 @@ Six models were trained and evaluated:
 - MobileNetV3-Large  
 Each model was trained on 29 plant disease classes with a 70/15/15 train–val–test split.
 
-
-## Project Structure
-
